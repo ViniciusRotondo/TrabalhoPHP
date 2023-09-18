@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+}
+h3{
+    margin-left: 200px;
+}
+
+.text{
+    text-align: justify;
+}
+
+.funcoes{
+    text-decoration: none;
+    color: black;
+}
+
+.funcoes:hover{
+    text-decoration: underline;
+    color: grey;
+}
+
+.sub-title{
+    text-align: center;
+}
+
+.form-lcfirst{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+}
+
+.title-lcfirst{
+    padding: 2px;
+    margin-left: 2px;
+}
+
+.input-lcfirst{
+    margin-top: 5px;
+    padding: 2px;
+    width: 300px;
+    height: 25px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.info-group{
+    display: flex;
+    justify-content: space-around;
+    align-items:start;
+    flex-direction: row;
+}
